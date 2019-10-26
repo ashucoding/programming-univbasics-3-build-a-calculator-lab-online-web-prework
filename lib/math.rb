@@ -1,10 +1,13 @@
 def addition(num1, num2)
-
+  puts "#{num1} + #{num2}"
 end
+
 
 def subtraction(num1, num2)
-
+puts "#{num1} - #{num2}"
 end
+
+subtraction("10,5")
 
 def division(num1, num2)
 
