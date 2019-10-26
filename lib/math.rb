@@ -2,6 +2,7 @@ def addition(num1, num2)
   puts "#{num1} + #{num2}"
 end
 
+addition (5,6)
 
 def subtraction(num1, num2)
 puts "#{num1} - #{num2}"
